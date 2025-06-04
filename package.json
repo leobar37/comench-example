@@ -10,12 +10,12 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@comenchi/admin": "latest",
+    "@comenchi/admin": "2.0.2",
     "@comenchi/admin-sdk": "latest",
     "@comenchi/common": "latest",
-    "@comenchi/shop": "latest",
+    "@comenchi/shop": "2.0.2",
     "@comenchi/shop-sdk": "latest",
-    "@comenchi/ui": "latest",
+    "@comenchi/ui": "2.0.2",
     "@hookform/resolvers": "^3.10.0",
     "@lexical/code": "^0.32.0",
     "@lexical/html": "^0.32.0",
@@ -92,7 +92,8 @@
     "vaul": "^1.1.2",
     "vite-env-only": "^3.0.3",
     "zod": "^3.23.8",
-    "zustand": "^5.0.3"
+    "zustand": "^5.0.3",
+    "deepmerge": "^4.3.1"
   },
   "devDependencies": {
     "@react-router/dev": "^7.0.1",
