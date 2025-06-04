@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@comenchi/admin':
-        specifier: 2.0.2
-        version: 2.0.2(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(yjs@13.6.27)(zod@3.25.51)
+        specifier: 2.0.3
+        version: 2.0.3(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(yjs@13.6.27)(zod@3.25.51)
       '@comenchi/admin-sdk':
         specifier: latest
         version: 2.0.0(react@18.3.1)
@@ -18,8 +18,8 @@ importers:
         specifier: latest
         version: 1.0.3
       '@comenchi/shop':
-        specifier: 2.0.2
-        version: 2.0.2(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(yjs@13.6.27)(zod@3.25.51)
+        specifier: 2.0.3
+        version: 2.0.3(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(yjs@13.6.27)(zod@3.25.51)
       '@comenchi/shop-sdk':
         specifier: latest
         version: 2.0.0(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(graphql@16.11.0)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(zod@3.25.51)
@@ -473,8 +473,8 @@ packages:
   '@comenchi/admin-sdk@2.0.1':
     resolution: {integrity: sha512-QoFHCJWBUPXxX96/ePkssTHURKdrROaMAtge5WLGx+6vNSjo0BG4uH2KoLoh3ehkYSSSh1nrnJXIjfDJbJGl6g==}
 
-  '@comenchi/admin@2.0.2':
-    resolution: {integrity: sha512-MRIJW9dlpNpAtLHRC14zSd9GU3vmVIem5BKH/yiDrTKlAeciU2tZB+9UNyqVlJvLaW+cbzjM6ds9Tw2UJ0rngQ==}
+  '@comenchi/admin@2.0.3':
+    resolution: {integrity: sha512-ulMKrGIRLJ9sFwDqgteyOmgyLhdOsUA1a5mjMklOXYeV7x4LQ/+ZBZBS01ADt469zGuo7Jqhe+J//RHW5xs6XA==}
 
   '@comenchi/common@1.0.3':
     resolution: {integrity: sha512-cR2BqhXesW/XOq1qnAGcPVvIaNWeJPPnlvJIJhXoefEPz4ZwO+fTCjYEg2wlgrwOpx50ZkbS0HEYFdnyEWSFBA==}
@@ -485,8 +485,8 @@ packages:
   '@comenchi/shop-sdk@2.0.1':
     resolution: {integrity: sha512-oE2i+9Z4dyvhYg0NbAaHr0ky4fMX9wQ2akqap0Og7k1mTvaViSZqRH9LeDf13ZBYeafF4d1M6jC1Kb4sz3Zvsw==}
 
-  '@comenchi/shop@2.0.2':
-    resolution: {integrity: sha512-OA1upD973CNbQoK9bnL8nw2sS6o7+JWzX557jjOFAB1cyahyHsGhLcZKrdJ5UuWK5MPF8dumidhoAfstxcYCjg==}
+  '@comenchi/shop@2.0.3':
+    resolution: {integrity: sha512-xv34UYJUz/z83Y58+kpEiAMOQ6uSl61XKZKiM7gJF8BTPFGD0rSzJvIENDZGhEN6jF1F/vtgyCv1uHHaMBtODg==}
 
   '@comenchi/ui@2.0.2':
     resolution: {integrity: sha512-JnQ7cA7DhF1dPkTQNYtot4gO7cEoyUgqZrfCZ5alxyFaGxw8y16QSi+OeqpW8Idyf3nGNvykif106HDInpPWDw==}
@@ -3954,7 +3954,7 @@ snapshots:
       - react
       - supports-color
 
-  '@comenchi/admin@2.0.2(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(yjs@13.6.27)(zod@3.25.51)':
+  '@comenchi/admin@2.0.3(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(yjs@13.6.27)(zod@3.25.51)':
     dependencies:
       '@comenchi/admin-sdk': 2.0.1(react@18.3.1)
       '@comenchi/common': 1.0.3
@@ -4128,9 +4128,9 @@ snapshots:
       - vite
       - zod
 
-  '@comenchi/shop@2.0.2(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(yjs@13.6.27)(zod@3.25.51)':
+  '@comenchi/shop@2.0.3(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(yjs@13.6.27)(zod@3.25.51)':
     dependencies:
-      '@comenchi/admin': 2.0.2(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(yjs@13.6.27)(zod@3.25.51)
+      '@comenchi/admin': 2.0.3(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(yjs@13.6.27)(zod@3.25.51)
       '@comenchi/admin-sdk': 2.0.1(react@18.3.1)
       '@comenchi/common': 1.0.3
       '@comenchi/shop-sdk': 2.0.1(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(graphql@16.11.0)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(zod@3.25.51)

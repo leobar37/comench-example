@@ -10,10 +10,10 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@comenchi/admin": "2.0.2",
+    "@comenchi/admin": "2.0.3",
     "@comenchi/admin-sdk": "latest",
     "@comenchi/common": "latest",
-    "@comenchi/shop": "2.0.2",
+    "@comenchi/shop": "2.0.3",
     "@comenchi/shop-sdk": "latest",
     "@comenchi/ui": "2.0.2",
     "@hookform/resolvers": "^3.10.0",
