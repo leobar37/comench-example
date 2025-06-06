@@ -4,7 +4,7 @@ export default [
   // web
   layout('routes/web/layout.tsx', [
     index('routes/web/home.tsx'),
-    route('/pr/:slug', 'routes/web/product.tsx'),
+    route('/pr/:id', 'routes/web/product.tsx'),
     route('/checkout', 'routes/web/checkout.tsx'),
     route('/collection/:id', 'routes/web/collections.tsx'),
     route('/checkout/success', 'routes/web/success-checkout.tsx'),

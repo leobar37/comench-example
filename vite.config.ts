@@ -4,6 +4,7 @@ import tailwindcss from 'tailwindcss'
 import {defineConfig} from 'vite'
 import {envOnlyMacros} from 'vite-env-only'
 import tsconfigPaths from 'vite-tsconfig-paths'
+import devtoolsJson from 'vite-plugin-devtools-json'
 export default defineConfig({
   css: {
     postcss: {
@@ -13,7 +14,7 @@ export default defineConfig({
   ssr: {
     noExternal: ['react-dropzone'],
   },
-  plugins: [reactRouter(), tsconfigPaths(), envOnlyMacros()],
+  plugins: [reactRouter(), tsconfigPaths(), envOnlyMacros(), devtoolsJson()],
   optimizeDeps: {
     exclude: ['@resvg/resvg-js'],
   },

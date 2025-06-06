@@ -10,12 +10,12 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@comenchi/admin": "2.0.4",
-    "@comenchi/admin-sdk": "2.0.2",
-    "@comenchi/common": "1.0.4",
-    "@comenchi/shop": "2.0.4",
-    "@comenchi/shop-sdk": "2.0.2",
-    "@comenchi/ui": "2.0.2",
+    "@comenchi/admin": "2.0.6",
+    "@comenchi/admin-sdk": "2.0.4",
+    "@comenchi/common": "1.0.6",
+    "@comenchi/shop": "2.0.6",
+    "@comenchi/shop-sdk": "2.0.4",
+    "@comenchi/ui": "2.0.5",
     "@hookform/resolvers": "^3.10.0",
     "@lexical/code": "0.32.1",
     "@lexical/html": "0.32.1",
@@ -115,6 +115,7 @@
     "tailwindcss-animate": "^1.0.7",
     "typescript": "^5.7.2",
     "vite": "^5.4.11",
+    "vite-plugin-devtools-json": "^0.1.0",
     "vite-tsconfig-paths": "^5.1.4",
     "vitest": "^2.1.4"
   },
