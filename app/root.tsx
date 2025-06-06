@@ -1,3 +1,7 @@
+import Prism from 'prismjs'
+if (typeof globalThis.Prism === 'undefined') {
+  globalThis.Prism = Prism
+}
 // top
 import './components/registry'
 import './lib/comenchi-admin'

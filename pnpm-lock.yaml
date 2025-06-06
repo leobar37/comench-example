@@ -9,20 +9,20 @@ importers:
   .:
     dependencies:
       '@comenchi/admin':
-        specifier: 2.0.3
-        version: 2.0.3(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(yjs@13.6.27)(zod@3.25.51)
+        specifier: 2.0.4
+        version: 2.0.4(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(yjs@13.6.27)(zod@3.25.51)
       '@comenchi/admin-sdk':
-        specifier: latest
-        version: 2.0.0(react@18.3.1)
+        specifier: 2.0.2
+        version: 2.0.2(react@18.3.1)
       '@comenchi/common':
-        specifier: latest
-        version: 1.0.3
+        specifier: 1.0.4
+        version: 1.0.4
       '@comenchi/shop':
-        specifier: 2.0.3
-        version: 2.0.3(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(yjs@13.6.27)(zod@3.25.51)
+        specifier: 2.0.4
+        version: 2.0.4(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(yjs@13.6.27)(zod@3.25.51)
       '@comenchi/shop-sdk':
-        specifier: latest
-        version: 2.0.0(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(graphql@16.11.0)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(zod@3.25.51)
+        specifier: 2.0.2
+        version: 2.0.2(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(graphql@16.11.0)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(zod@3.25.51)
       '@comenchi/ui':
         specifier: 2.0.2
         version: 2.0.2(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))
@@ -30,35 +30,35 @@ importers:
         specifier: ^3.10.0
         version: 3.10.0(react-hook-form@7.57.0(react@18.3.1))
       '@lexical/code':
-        specifier: ^0.32.0
-        version: 0.32.0
+        specifier: 0.32.1
+        version: 0.32.1
       '@lexical/html':
-        specifier: ^0.32.0
-        version: 0.32.0
+        specifier: 0.32.1
+        version: 0.32.1
       '@lexical/link':
-        specifier: ^0.32.0
-        version: 0.32.0
+        specifier: 0.32.1
+        version: 0.32.1
       '@lexical/list':
-        specifier: ^0.31.1
-        version: 0.31.2
+        specifier: 0.32.1
+        version: 0.32.1
       '@lexical/markdown':
-        specifier: ^0.31.2
-        version: 0.31.2
+        specifier: 0.32.1
+        version: 0.32.1
       '@lexical/react':
-        specifier: ^0.31.1
-        version: 0.31.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(yjs@13.6.27)
+        specifier: 0.32.1
+        version: 0.32.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(yjs@13.6.27)
       '@lexical/rich-text':
-        specifier: ^0.31.1
-        version: 0.31.2
+        specifier: 0.32.1
+        version: 0.32.1
       '@lexical/selection':
-        specifier: ^0.32.0
-        version: 0.32.0
+        specifier: 0.32.1
+        version: 0.32.1
       '@lexical/table':
-        specifier: ^0.32.0
-        version: 0.32.0
+        specifier: 0.32.1
+        version: 0.32.1
       '@lexical/utils':
-        specifier: ^0.31.1
-        version: 0.31.2
+        specifier: ^0.32.1
+        version: 0.32.1
       '@nanostores/query':
         specifier: ^0.3.4
         version: 0.3.4(nanostores@0.11.3)
@@ -197,6 +197,9 @@ importers:
       next-themes:
         specifier: ^0.3.0
         version: 0.3.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      prismjs:
+        specifier: ^1.30.0
+        version: 1.30.0
       radash:
         specifier: ^12.1.0
         version: 12.1.0
@@ -273,6 +276,9 @@ importers:
       '@types/node':
         specifier: ^20.17.8
         version: 20.17.57
+      '@types/prismjs':
+        specifier: ^1.26.5
+        version: 1.26.5
       '@types/react':
         specifier: ^18.3.12
         version: 18.3.23
@@ -467,29 +473,32 @@ packages:
     resolution: {integrity: sha512-Y1GkI4ktrtvmawoSq+4FCVHNryea6uR+qUQy0AGxLSsjCX0nVmkYQMBLHDkXZuo5hGx7eYdnIaslsdBFm7zbUw==}
     engines: {node: '>=6.9.0'}
 
-  '@comenchi/admin-sdk@2.0.0':
-    resolution: {integrity: sha512-ExP3LvGysx+mtUMTMzSfaOGTOZMSKARTP9UjPdHENcD9Nk4ICU9v1q1lx3JuIvsw72+FeqJvQSudCBiMROJqCQ==}
-
   '@comenchi/admin-sdk@2.0.1':
     resolution: {integrity: sha512-QoFHCJWBUPXxX96/ePkssTHURKdrROaMAtge5WLGx+6vNSjo0BG4uH2KoLoh3ehkYSSSh1nrnJXIjfDJbJGl6g==}
 
-  '@comenchi/admin@2.0.3':
-    resolution: {integrity: sha512-ulMKrGIRLJ9sFwDqgteyOmgyLhdOsUA1a5mjMklOXYeV7x4LQ/+ZBZBS01ADt469zGuo7Jqhe+J//RHW5xs6XA==}
+  '@comenchi/admin-sdk@2.0.2':
+    resolution: {integrity: sha512-cjDORKP9VAGsdSK63FrJuDifZpOsHXkmU/7TEJr5Hp7/NNVKKt3ojcxDWb/IUQZ6PUQE8MuxPiNl0kSlfvzB4w==}
+
+  '@comenchi/admin@2.0.4':
+    resolution: {integrity: sha512-dczV/C0dyDaTGJ2boMwlJI5GKsh2m6sz6pOi0ixak+YxW8ieuAWvfMGgaIe74n6cua5YEF899S+HMyphSb88Dg==}
 
   '@comenchi/common@1.0.3':
     resolution: {integrity: sha512-cR2BqhXesW/XOq1qnAGcPVvIaNWeJPPnlvJIJhXoefEPz4ZwO+fTCjYEg2wlgrwOpx50ZkbS0HEYFdnyEWSFBA==}
 
-  '@comenchi/shop-sdk@2.0.0':
-    resolution: {integrity: sha512-pWgzyiMvu3jlq69mQvUFo/TKWROuZ5H+J2UlKIIT+fFLqhGc3RDhmpcqIkn95g2HRwUVJwFPIMLR4Ra4LOJEZA==}
+  '@comenchi/common@1.0.4':
+    resolution: {integrity: sha512-38hl9oO6/1EIjoYu2F4RYBrQHh1mM9Nn9jd+FqChEysjiz2pd5tBRkNQIy+JWZMMreuFsp+1FEX4b0uN68QGKw==}
 
-  '@comenchi/shop-sdk@2.0.1':
-    resolution: {integrity: sha512-oE2i+9Z4dyvhYg0NbAaHr0ky4fMX9wQ2akqap0Og7k1mTvaViSZqRH9LeDf13ZBYeafF4d1M6jC1Kb4sz3Zvsw==}
+  '@comenchi/shop-sdk@2.0.2':
+    resolution: {integrity: sha512-LKfDSnB5ELsf95uTo16nk2wJJ2SMj5sdS1R3qXAtGPe/lvognPBCU8kpNxJfcCnSMkqwG476xciXczlhlyXM3A==}
 
-  '@comenchi/shop@2.0.3':
-    resolution: {integrity: sha512-xv34UYJUz/z83Y58+kpEiAMOQ6uSl61XKZKiM7gJF8BTPFGD0rSzJvIENDZGhEN6jF1F/vtgyCv1uHHaMBtODg==}
+  '@comenchi/shop@2.0.4':
+    resolution: {integrity: sha512-Rz9zFE8Zn9Qn646fu842B5DYPK1AuO1HZ2tAQiTLvxoo16drV/aAAwSdaIfXekf/VPx35P2V5FW+zO1tK3gv7Q==}
 
   '@comenchi/ui@2.0.2':
     resolution: {integrity: sha512-JnQ7cA7DhF1dPkTQNYtot4gO7cEoyUgqZrfCZ5alxyFaGxw8y16QSi+OeqpW8Idyf3nGNvykif106HDInpPWDw==}
+
+  '@comenchi/ui@2.0.3':
+    resolution: {integrity: sha512-ipLaStHasvKazymbDXlk9KUdrcS8vRgeEZEeqL4JVvD4lnGgiG/NYwn50GgN3VQ5ho6qOe0XIZKBtxWiCFpWdg==}
 
   '@csstools/color-helpers@5.0.2':
     resolution: {integrity: sha512-JqWH1vsgdGcw2RR6VliXXdA0/59LttzlU8UlRT/iUUsEeWfYq8I+K0yhihEUTTHLRm1EXvpsCx3083EU15ecsA==}
@@ -707,6 +716,12 @@ packages:
       react: '>=16.8.0'
       react-dom: '>=16.8.0'
 
+  '@floating-ui/react@0.27.12':
+    resolution: {integrity: sha512-kKlWNrpIQxF1B/a2MZvE0/uyKby4960yjO91W7nVyNKmmfNi62xU9HCjL1M1eWzx/LFj/VPSwJVbwQk9Pq/68A==}
+    peerDependencies:
+      react: '>=17.0.0'
+      react-dom: '>=17.0.0'
+
   '@floating-ui/utils@0.2.9':
     resolution: {integrity: sha512-MDWhGtE+eHw5JW7lq4qhc5yRLS11ERl1c7Z6Xd0a58DozHES6EnNNwUWbMiG4J9Cgj053Bhk8zvlhFYKVhULwg==}
 
@@ -757,98 +772,74 @@ packages:
   '@jridgewell/trace-mapping@0.3.25':
     resolution: {integrity: sha512-vNk6aEwybGtawWmy/PzwnGDOjCkLWSD2wqvjGGAgOAwCGWySYXfYoxt00IJkTF+8Lb57DwOb3Aa0o9CApepiYQ==}
 
-  '@lexical/clipboard@0.31.2':
-    resolution: {integrity: sha512-cedna5jXfNzbmGl0nLOiLoQoE42i3NfCU6wtugO/auWTLbv1/gD9g0egLg2lAUod+BApaCgdTU4tV2bqww2GWQ==}
+  '@lexical/clipboard@0.32.1':
+    resolution: {integrity: sha512-oO7CuMVh3EFEqtE6+7Ccf7jMD5RNUmSdTnFm/X4kYNGqs9lgGt8j5PgSk7oP9OuAjxKNdBTbltSlh54CX3AUIg==}
 
-  '@lexical/clipboard@0.32.0':
-    resolution: {integrity: sha512-JFe799LY2lJDNnVOCMJCjiJclQT0wRbMhCgnpr7mAQJq1bTtyB6uKOFTc64T5KJgTeERZDrK3gySFLnS7CPYQw==}
+  '@lexical/code@0.32.1':
+    resolution: {integrity: sha512-2rXj8s/CG32XKQ2EpORpACfpzyAxB+/SrQW2cjwczarLs5Fxnx6u6HwahZnxaF0z5UHIPUy90qDiOiRExc74Yg==}
 
-  '@lexical/code@0.31.2':
-    resolution: {integrity: sha512-pix3n43zJzzkOgiUV0aTkWL4syItiHrP7YkdenkXgauVMAqZq3IvmK1hSQYKeDsVw/3N8mU26oRp0g5kPDV1rA==}
-
-  '@lexical/code@0.32.0':
-    resolution: {integrity: sha512-M3EHltvw/RJWO3+tMvRlBNg8JtB5nSIFo/ac0pdC8Y8w/3wTf2Z0tv0zzRer3i7ZBUe49/AkAnUgAKzH/r/9BQ==}
-
-  '@lexical/devtools-core@0.31.2':
-    resolution: {integrity: sha512-Ae5jJzeo6+3DVEWj9n6h+Vz8R4eL+Z7egGHOAwSa3E65PVp8WNlAoM+Z0rNNpvmbFglWD7d9pSPHcK/G5B7Bfw==}
+  '@lexical/devtools-core@0.32.1':
+    resolution: {integrity: sha512-3WnZQo6Qig7ccjDu2b8s1Kb5CCXowxnK0i8CCRG9mHAw7i6XpZUYAbk4rmcK/qbhLHrc7LwUrAMFzGtfLEH3XA==}
     peerDependencies:
       react: '>=17.x'
       react-dom: '>=17.x'
 
-  '@lexical/dragon@0.31.2':
-    resolution: {integrity: sha512-exFqbyyLyfZmmKQgjB4sJOYHV5DQYIPw0orvxpGMeaVCOgfP0RvB21QLHyazmGlnVNcahscHYieZmLJdpwHYMQ==}
+  '@lexical/dragon@0.32.1':
+    resolution: {integrity: sha512-Dlx8P2b/O7gZLmXnoanmDkFL5RgA8Vvix4ZuSvT0apblqySzgi8l3NHHwwqXy1g2nfSupvpr7Dsf10Lu3l0Hlw==}
 
-  '@lexical/hashtag@0.31.2':
-    resolution: {integrity: sha512-/sa8bsCq2CKmdpvN/l2B8K/sJrsmd4pAafFG4JWB7JXjPxJyDe80WbSaQfBPdrhvqdLY8l05GeWM17SsEV1sMw==}
+  '@lexical/hashtag@0.32.1':
+    resolution: {integrity: sha512-S63bb7uIB4hO2V0UmzUiKlwAGegQlyFKqrOw9NJwOb8O96gHRxr27FUsEb8ToWLM8TSm2aw1WsZXs7CJQqGtCg==}
 
-  '@lexical/history@0.31.2':
-    resolution: {integrity: sha512-q3Ykv3oi711XmuFdg7LuppLImyedgpLD5KekXLXRVyOGOTvvaNfb2YQfRjFBalxl3umj2QHYR22Zkamx8zfFXw==}
+  '@lexical/history@0.32.1':
+    resolution: {integrity: sha512-IRsKllumYEWxmzR2evN30MFY+JBM723lSyzm2PAQcgHCeBxi8t0Vc3EdyJRay+YdN65JgrohQi1WbktbK923uQ==}
 
-  '@lexical/html@0.31.2':
-    resolution: {integrity: sha512-92Oi9daBDNCaionS9ENnXkC+jzzz5WdFTHxTkPqcGaJZE/jF0rAe6LQo6356O/yr9dYK/KIsE8V79AJHqQKJhg==}
+  '@lexical/html@0.32.1':
+    resolution: {integrity: sha512-uctCdC9gVzx/Sw9CimT4C2IDfSbfEGYunyIrJBpsfcdqp0rroGNizjIoZNBH3xcgkk9UDboSADo+wimbzEoy8A==}
 
-  '@lexical/html@0.32.0':
-    resolution: {integrity: sha512-h5f+jZ60cT9uMj1hFwsS3w8dhq7/sF0V4JxvG1B0CcPMBmcOg0rXKiXc8HBGAanXHvjfbKI6wZzwV2KkQ9MYag==}
+  '@lexical/link@0.32.1':
+    resolution: {integrity: sha512-atdwNpWjZ0U2/kgS0ATTkZ8lJLHiv3TsJgqJL33BuV9Gn7advJokd4faM79Y8XxkhiPi1lVTBSHgI8V4hs+c+Q==}
 
-  '@lexical/link@0.31.2':
-    resolution: {integrity: sha512-sLtpW+cuFdVq1V6vlEFUEC1BRHyHBxEdCrxwTP7T0CreJDKrUrBD2oBafb/4AiOPhM7CHAwW88pbuY5KvWOovw==}
+  '@lexical/list@0.32.1':
+    resolution: {integrity: sha512-3zShCfEdAvodR6mQ5CNN1gcEwfV341LXJzWCIkZzG1cPwaiBHUlT7TynQtKTPn1sATCEMmxoDG0/T+itsRNZgA==}
 
-  '@lexical/link@0.32.0':
-    resolution: {integrity: sha512-J/FeM6RUq+mSd5lDn8HE5tngqqzAUVb6zq1MTv9rtMeo0GtzXWNdHdM1f613JyHFf5AuW5ySYkb7aTeE5r53UQ==}
+  '@lexical/mark@0.32.1':
+    resolution: {integrity: sha512-AXF2wmUvvSI45y+sgZKnU0pnUdttd9v75DDQgdplqtCkyDqHVGxVCNCrLE+PJtzIrwJxtA2UyC8yFZMBM92HpA==}
 
-  '@lexical/list@0.31.2':
-    resolution: {integrity: sha512-NbdpxSttk/MmYCSovsxiQwS2h3h2U/Kg3WwNfW9vgpvdZE+qmg6jqpzUFVe51/i+GF2WU0uRPG0J5StMGhtYlg==}
+  '@lexical/markdown@0.32.1':
+    resolution: {integrity: sha512-AmUTRRx6Je0AOiQqp48Xn92/71AzhFgi4nO1EtPW5eae1CihrtiEh5UQr48mV6EyjvH9D3OlOLU8XrzS+J9a+w==}
 
-  '@lexical/list@0.32.0':
-    resolution: {integrity: sha512-Hgnpt4WjPUSkk3T9LdzB5+84uCmrnrVn/SPnRDmIqTSB2wAZkpfndXrBvSotDjQV3LnsfyMgPrczfU15MbBF2A==}
+  '@lexical/offset@0.32.1':
+    resolution: {integrity: sha512-zfHqoLlQ0lq1akFHy81xnDaRRE5KkqFa7OovOxKPBpALQCiJIAb2ykqj/Woc2oUeYaEcnkaFU9+kEWMK9yY0fQ==}
 
-  '@lexical/mark@0.31.2':
-    resolution: {integrity: sha512-orzsqWaejgdUhSHXRFogF0HNzRWKf2HD7DgiGxKF7LrjVLl4j14+zA8UWX9d4qNwIbRPdfQkYfeOSPwbYx3iRw==}
+  '@lexical/overflow@0.32.1':
+    resolution: {integrity: sha512-wjcFGjzkbugds2Q5Wag59WrcxJwMUACEXms1FtFdu1/YcBPqNAKJSyfo8Z/5LGfstQEb2nPtSuEQZUb7v+XYyA==}
 
-  '@lexical/markdown@0.31.2':
-    resolution: {integrity: sha512-2gWo7HiMONTor3whJo1237LZz769eVVRT8kGUgBq/p5QyFsb131NUYSxCperKdDaO43k+4ZQspPHyQJjoyOxHg==}
+  '@lexical/plain-text@0.32.1':
+    resolution: {integrity: sha512-uFS3xoETB3phnYHZXfMKvl8gh6YRW7rpokuJmQVMHNNBklORmMpN00rRQ/zsc/jt/nPzaPpE5cLwSHXeJdqJUg==}
 
-  '@lexical/offset@0.31.2':
-    resolution: {integrity: sha512-f8bNvys2jNgnjQWoUd6us7KBXdB7AhKqgWqso7nGeoB1CWGTkd88Qxm8A9uX/muPK0cb6fed4X7wN2xuRDWpyQ==}
-
-  '@lexical/overflow@0.31.2':
-    resolution: {integrity: sha512-l5jbPglBX8CiXZ7F+okTcfdOwfAgf1JIa8BJhkQrtRP/fEiY3NnCehBYfp/Iyd9uBZDWlVlp1+UsqFFtEeT3Yg==}
-
-  '@lexical/plain-text@0.31.2':
-    resolution: {integrity: sha512-CMKuWPUCyDZ8ET10YZM7RxDyIB2UiHJ7mEwqEKl86OS9XOhWtp0qUQUonyeAy4f9yfuMTA7fQ2iLlEmAaeVu+g==}
-
-  '@lexical/react@0.31.2':
-    resolution: {integrity: sha512-A/Ub9Ub5vx9EE0WEhVeE3t/SMVecnaPGeN37Q5LMPXiGgQCsMKEYtjHKvAjjAXSk8YD1lGTd/k4LOjyl8Y9ZyA==}
+  '@lexical/react@0.32.1':
+    resolution: {integrity: sha512-PCiAiwGIGfkYb2o9Kx+gGGqXwxqb7/W4cGSnw1nzmNtCerJ3S64WZs87Lgcow0RlDSwqzpH534+eCyIddueSqw==}
     peerDependencies:
       react: '>=17.x'
       react-dom: '>=17.x'
 
-  '@lexical/rich-text@0.31.2':
-    resolution: {integrity: sha512-iBkqY0CvTKbwk3T+a4wtI6/OjhM/CdxXvha6b88Gb9d5tYj5k7cT5SznYF1sXPmwtqpXg9TWkBN2Puqv3LPvsg==}
+  '@lexical/rich-text@0.32.1':
+    resolution: {integrity: sha512-SnmpZ7boTLxeYfNezNLvchDiJOAALA2nD0Uq/SpkIOJ6R01R7m1aPdLv55LGKoBT9UxCRdo0HWXytwiVZI+ehQ==}
 
-  '@lexical/selection@0.31.2':
-    resolution: {integrity: sha512-8hwNgAVWob09y8/Z2QKknw0z6vFcfjsQfHkyDwXwXUeTcJFjlAokrXrc65PRuufI4TaFDQHnXQpP5GcOYROE6Q==}
+  '@lexical/selection@0.32.1':
+    resolution: {integrity: sha512-X1aXJdq/5EOuSuMOqK3t+rEVmpqLf+vc2Kl5YuP8+gGWUbXuxR6iryrQuy1mAViZpF/5qw4HO/Sb+9JjubaZEg==}
 
-  '@lexical/selection@0.32.0':
-    resolution: {integrity: sha512-zEADFsHzie7IVjw0+r51lwtlH5EzwNn1rlH82JC3UA8nYNL5ZowEj46V7ylh0Ltem1rjx4bPcEUvC6xCJCxJ5A==}
+  '@lexical/table@0.32.1':
+    resolution: {integrity: sha512-sGk2jUbQHj5hatpxRyl6IE2oWsjRnYhmaP94THzn95/uK69o8eSizcnd148WzYsX8Zz+L9PTLS1xjvCbfLTP+A==}
 
-  '@lexical/table@0.31.2':
-    resolution: {integrity: sha512-S4W6DdkDCYP32qL6QD4jyksEatyfapRBc4sqoRove83fQEWnFhJ1iBheiG3hSm3YDbDmLclZxcE2CuSIZ6bd0Q==}
+  '@lexical/text@0.32.1':
+    resolution: {integrity: sha512-0Ek8F3KC4d16b2YaTHdyYFqDSBZ5KRtGrqU3GBog+VOGxucGaEbXEK1/ypX5CTe/wwkQDrH0FKWPQbd3l5t5YQ==}
 
-  '@lexical/table@0.32.0':
-    resolution: {integrity: sha512-FTz4dvUE7iYW9ER7O0L66HZslKP6Wk7bYmKBN+YZ6PU1wEsRSi4ilxZV83aRzWQ7zSaIv9sVkncXsEfXl8/z2Q==}
+  '@lexical/utils@0.32.1':
+    resolution: {integrity: sha512-ZaqZZksNIHJd+g8GXc11D1ESi8JzsdLVQZ+9odXVaNxtwDIaGIqMSccFyuZ9VSoJDde4JXZkgp/0PShbAZDkyw==}
 
-  '@lexical/text@0.31.2':
-    resolution: {integrity: sha512-+rGRAqE4uKdJf25e4stqDImhBh5RgVmxMJf00OyQdwq1P2M+/xF3NddqRpoACHyMyHhuR1wOSONSnYbMqMtc6w==}
-
-  '@lexical/utils@0.31.2':
-    resolution: {integrity: sha512-vtPzZuJt134cz+oiHAPSIHT3hGt/9Gtug/Cf8OftqJeg3/7P6dKiTdAvAql3q4QxHlCAup4Ed87Ec8PYsICGGg==}
-
-  '@lexical/utils@0.32.0':
-    resolution: {integrity: sha512-akbDBW3ZP5EJJX0FLjCRhaIsrFVoZfS0nXtYcMNkY8ikxz2gesNf8qYmPQb9tGSO2aJe0bgR5xhbw3gT50BK3w==}
-
-  '@lexical/yjs@0.31.2':
-    resolution: {integrity: sha512-H1OV+NFGTmHqr+0BFkxo4bDBsdw1WmSwCzIoMVU1uA4levH7tLay/xBV/67ghh+5InSwGR6gcJeFdbL86URuOw==}
+  '@lexical/yjs@0.32.1':
+    resolution: {integrity: sha512-VHGTg5z4wcDkPe8NnhzA5+CoOKJ5tVmTmMvoiZ91rtNUFQPxWRky88Gjt1e3yXldYp4pImNEgtAjlWqvaJBYGA==}
     peerDependencies:
       yjs: '>=13.5.22'
 
@@ -1659,6 +1650,9 @@ packages:
 
   '@types/node@20.17.57':
     resolution: {integrity: sha512-f3T4y6VU4fVQDKVqJV4Uppy8c1p/sVvS3peyqxyWnzkqXFJLRU7Y1Bl7rMS1Qe9z0v4M6McY0Fp9yBsgHJUsWQ==}
+
+  '@types/prismjs@1.26.5':
+    resolution: {integrity: sha512-AUZTa7hQ2KY5L7AmtSiqxlhWxb4ina0yd8hNbl4TWuqnv/pFP0nDMb3YrfSBf4hJVGLh2YEIBfKaBW/9UEl6IQ==}
 
   '@types/prop-types@15.7.14':
     resolution: {integrity: sha512-gNMvNH49DJ7OJYv+KAKn0Xp45p8PLl6zo2YnvDIbTd4J6MER2BmWN49TG7n9LvkyihINxeKW8+3bfS2yDC9dzQ==}
@@ -2521,8 +2515,8 @@ packages:
   lexical@0.31.2:
     resolution: {integrity: sha512-1GRqzl/QAdtzqOoYXVfMFOkyiSQKIIPcazsgIs+WvsLL8UIcwP16WWeKUtamJgyvS84GN/tuMJsd1Iv+Qzw9WA==}
 
-  lexical@0.32.0:
-    resolution: {integrity: sha512-B+NIE/Z0Lqa9uL6M2W1p6YVGExvHVX50fxzS6/ZnQJskkbBxdt6+7Ifgli2wAltTqKWBe7qf+YlFjHIP0u5ffw==}
+  lexical@0.32.1:
+    resolution: {integrity: sha512-Rvr9p00zUwzjXIqElIjMDyl/24QHw68yaqmXUWIT3lSdSAr8OpjSJK3iWBLZwVZwwpVhwShZRckomc+3vSb/zw==}
 
   lib0@0.2.108:
     resolution: {integrity: sha512-+3eK/B0SqYoZiQu9fNk4VEc6EX8cb0Li96tPGKgugzoGj/OdRdREtuTLvUW+mtinoB2mFiJjSqOJBIaMkAGhxQ==}
@@ -3327,6 +3321,9 @@ packages:
   symbol-tree@3.2.4:
     resolution: {integrity: sha512-9QNk5KwDF+Bvz+PyObkmSYjI5ksVUYtjW7AU22r2NKcfLJcXp96hkDWU3+XndOsUb+AQ9QhfzfCT2O+CNWT5Tw==}
 
+  tabbable@6.2.0:
+    resolution: {integrity: sha512-Cat63mxsVJlzYvN51JmVXIgNoUokrIaT2zLclCXjRd8boZ0004U4KCs/sToJ75C6sdlByWxpYnb5Boif1VSFew==}
+
   tailwind-merge@2.5.4:
     resolution: {integrity: sha512-0q8cfZHMu9nuYP/b5Shb7Y7Sh1B7Nnl5GqNr1U+n2p6+mybvRtayrQ+0042Z5byvTA8ihjlP8Odo8/VnHbZu4Q==}
 
@@ -3930,18 +3927,6 @@ snapshots:
       '@babel/helper-string-parser': 7.27.1
       '@babel/helper-validator-identifier': 7.27.1
 
-  '@comenchi/admin-sdk@2.0.0(react@18.3.1)':
-    dependencies:
-      '@comenchi/common': 1.0.3
-      '@nanostores/query': 0.3.4(nanostores@0.11.3)
-      '@nanostores/react': 0.8.4(nanostores@0.11.3)(react@18.3.1)
-      '@tanstack/react-query': 5.80.3(react@18.3.1)
-      graphql: 16.11.0
-      nanostores: 0.11.3
-    transitivePeerDependencies:
-      - react
-      - supports-color
-
   '@comenchi/admin-sdk@2.0.1(react@18.3.1)':
     dependencies:
       '@comenchi/common': 1.0.3
@@ -3954,22 +3939,34 @@ snapshots:
       - react
       - supports-color
 
-  '@comenchi/admin@2.0.3(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(yjs@13.6.27)(zod@3.25.51)':
+  '@comenchi/admin-sdk@2.0.2(react@18.3.1)':
     dependencies:
-      '@comenchi/admin-sdk': 2.0.1(react@18.3.1)
-      '@comenchi/common': 1.0.3
-      '@comenchi/ui': 2.0.2(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))
+      '@comenchi/common': 1.0.4
+      '@nanostores/query': 0.3.4(nanostores@0.11.3)
+      '@nanostores/react': 0.8.4(nanostores@0.11.3)(react@18.3.1)
+      '@tanstack/react-query': 5.80.3(react@18.3.1)
+      graphql: 16.11.0
+      nanostores: 0.11.3
+    transitivePeerDependencies:
+      - react
+      - supports-color
+
+  '@comenchi/admin@2.0.4(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(yjs@13.6.27)(zod@3.25.51)':
+    dependencies:
+      '@comenchi/admin-sdk': 2.0.2(react@18.3.1)
+      '@comenchi/common': 1.0.4
+      '@comenchi/ui': 2.0.3(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))
       '@hookform/resolvers': 3.10.0(react-hook-form@7.57.0(react@18.3.1))
-      '@lexical/code': 0.32.0
-      '@lexical/html': 0.32.0
-      '@lexical/link': 0.32.0
-      '@lexical/list': 0.31.2
-      '@lexical/markdown': 0.31.2
-      '@lexical/react': 0.31.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(yjs@13.6.27)
-      '@lexical/rich-text': 0.31.2
-      '@lexical/selection': 0.32.0
-      '@lexical/table': 0.32.0
-      '@lexical/utils': 0.31.2
+      '@lexical/code': 0.32.1
+      '@lexical/html': 0.32.1
+      '@lexical/link': 0.32.1
+      '@lexical/list': 0.32.1
+      '@lexical/markdown': 0.32.1
+      '@lexical/react': 0.32.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(yjs@13.6.27)
+      '@lexical/rich-text': 0.32.1
+      '@lexical/selection': 0.32.1
+      '@lexical/table': 0.32.1
+      '@lexical/utils': 0.32.1
       '@nanostores/react': 0.8.4(nanostores@0.11.3)(react@18.3.1)
       '@radix-ui/react-accordion': 1.2.11(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@radix-ui/react-dialog': 1.1.14(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -3993,7 +3990,7 @@ snapshots:
       graphql-tag: 2.12.6(graphql@16.11.0)
       jotai: 2.12.5(@types/react@18.3.23)(react@18.3.1)
       js-cookie: 3.0.5
-      lexical: 0.31.2
+      lexical: 0.32.1
       lucide-react: 0.513.0(react@18.3.1)
       react-dropzone: 14.3.8(react@18.3.1)
       react-hook-form: 7.57.0(react@18.3.1)
@@ -4038,9 +4035,19 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@comenchi/shop-sdk@2.0.0(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(graphql@16.11.0)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(zod@3.25.51)':
+  '@comenchi/common@1.0.4':
     dependencies:
-      '@comenchi/common': 1.0.3
+      debug: 4.4.1
+      nanoid: 5.1.5
+      radash: 12.1.0
+      react: 18.3.1
+      usehooks-ts: 3.1.1(react@18.3.1)
+    transitivePeerDependencies:
+      - supports-color
+
+  '@comenchi/shop-sdk@2.0.2(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(graphql@16.11.0)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(zod@3.25.51)':
+    dependencies:
+      '@comenchi/common': 1.0.4
       '@hookform/resolvers': 3.10.0(react-hook-form@7.57.0(react@18.3.1))
       '@nanostores/react': 0.8.4(nanostores@0.11.3)(react@18.3.1)
       class-variance-authority: 0.7.1
@@ -4083,58 +4090,13 @@ snapshots:
       - vite
       - zod
 
-  '@comenchi/shop-sdk@2.0.1(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(graphql@16.11.0)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(zod@3.25.51)':
+  '@comenchi/shop@2.0.4(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(yjs@13.6.27)(zod@3.25.51)':
     dependencies:
-      '@comenchi/common': 1.0.3
-      '@hookform/resolvers': 3.10.0(react-hook-form@7.57.0(react@18.3.1))
-      '@nanostores/react': 0.8.4(nanostores@0.11.3)(react@18.3.1)
-      class-variance-authority: 0.7.1
-      clsx: 2.1.1
-      cookie: 1.0.2
-      debounce-promise: 3.1.2
-      embla-carousel-react: 8.6.0(react@18.3.1)
-      framer-motion: 11.18.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      graphql-tag: 2.12.6(graphql@16.11.0)
-      js-cookie: 3.0.5
-      react-hook-form: 7.57.0(react@18.3.1)
-      react-medium-image-zoom: 5.2.14(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      remix-utils: 8.7.0(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(zod@3.25.51)
-      tailwind-merge: 2.6.0
-      tailwind-variants: 0.3.1(tailwindcss@3.4.17)
-      use-effect-event: 1.0.2(react@18.3.1)
-      vaul: 1.1.2(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      vite-env-only: 3.0.3(vite@5.4.19(@types/node@20.17.57))
-      zustand: 5.0.5(@types/react@18.3.23)(react@18.3.1)(use-sync-external-store@1.5.0(react@18.3.1))
-    transitivePeerDependencies:
-      - '@edgefirst-dev/batcher'
-      - '@edgefirst-dev/jwt'
-      - '@edgefirst-dev/server-timing'
-      - '@emotion/is-prop-valid'
-      - '@oslojs/crypto'
-      - '@oslojs/encoding'
-      - '@types/react'
-      - '@types/react-dom'
-      - graphql
-      - immer
-      - intl-parse-accept-language
-      - is-ip
-      - nanostores
-      - react
-      - react-dom
-      - react-router
-      - supports-color
-      - tailwindcss
-      - use-sync-external-store
-      - vite
-      - zod
-
-  '@comenchi/shop@2.0.3(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(yjs@13.6.27)(zod@3.25.51)':
-    dependencies:
-      '@comenchi/admin': 2.0.3(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(yjs@13.6.27)(zod@3.25.51)
-      '@comenchi/admin-sdk': 2.0.1(react@18.3.1)
-      '@comenchi/common': 1.0.3
-      '@comenchi/shop-sdk': 2.0.1(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(graphql@16.11.0)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(zod@3.25.51)
-      '@comenchi/ui': 2.0.2(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))
+      '@comenchi/admin': 2.0.4(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(yjs@13.6.27)(zod@3.25.51)
+      '@comenchi/admin-sdk': 2.0.2(react@18.3.1)
+      '@comenchi/common': 1.0.4
+      '@comenchi/shop-sdk': 2.0.2(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(graphql@16.11.0)(nanostores@0.11.3)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))(zod@3.25.51)
+      '@comenchi/ui': 2.0.3(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))
       '@hookform/resolvers': 3.10.0(react-hook-form@7.57.0(react@18.3.1))
       '@nanostores/react': 0.8.4(nanostores@0.11.3)(react@18.3.1)
       '@radix-ui/react-dialog': 1.1.14(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -4191,6 +4153,69 @@ snapshots:
     dependencies:
       '@comenchi/admin-sdk': 2.0.1(react@18.3.1)
       '@comenchi/common': 1.0.3
+      '@hookform/resolvers': 3.10.0(react-hook-form@7.57.0(react@18.3.1))
+      '@radix-ui/react-accordion': 1.2.11(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@radix-ui/react-avatar': 1.1.10(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@radix-ui/react-checkbox': 1.3.2(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@radix-ui/react-collapsible': 1.1.11(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@radix-ui/react-dialog': 1.1.14(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@radix-ui/react-dropdown-menu': 2.1.15(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@radix-ui/react-label': 2.1.7(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@radix-ui/react-popover': 1.1.14(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@radix-ui/react-scroll-area': 1.2.9(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@radix-ui/react-select': 2.2.5(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@radix-ui/react-separator': 1.1.7(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@radix-ui/react-slot': 1.2.3(@types/react@18.3.23)(react@18.3.1)
+      '@radix-ui/react-switch': 1.2.5(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@radix-ui/react-tabs': 1.1.12(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@radix-ui/react-toast': 1.2.14(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@radix-ui/react-toggle': 1.1.9(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@radix-ui/react-tooltip': 1.2.7(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@tanstack/react-table': 8.21.3(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      class-variance-authority: 0.7.1
+      clsx: 2.1.1
+      cookie: 1.0.2
+      debounce-promise: 3.1.2
+      embla-carousel-react: 8.6.0(react@18.3.1)
+      framer-motion: 11.18.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      graphql: 16.11.0
+      graphql-tag: 2.12.6(graphql@16.11.0)
+      js-cookie: 3.0.5
+      react-hook-form: 7.57.0(react@18.3.1)
+      react-medium-image-zoom: 5.2.14(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      remix-utils: 8.7.0(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(zod@3.25.51)
+      swiper: 11.2.8
+      tailwind-merge: 2.6.0
+      tailwind-variants: 0.3.1(tailwindcss@3.4.17)
+      use-effect-event: 1.0.2(react@18.3.1)
+      vaul: 1.1.2(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      vite-env-only: 3.0.3(vite@5.4.19(@types/node@20.17.57))
+      zod: 3.25.51
+      zustand: 5.0.5(@types/react@18.3.23)(react@18.3.1)(use-sync-external-store@1.5.0(react@18.3.1))
+    transitivePeerDependencies:
+      - '@edgefirst-dev/batcher'
+      - '@edgefirst-dev/jwt'
+      - '@edgefirst-dev/server-timing'
+      - '@emotion/is-prop-valid'
+      - '@oslojs/crypto'
+      - '@oslojs/encoding'
+      - '@types/react'
+      - '@types/react-dom'
+      - immer
+      - intl-parse-accept-language
+      - is-ip
+      - react
+      - react-dom
+      - react-router
+      - supports-color
+      - tailwindcss
+      - use-sync-external-store
+      - vite
+
+  '@comenchi/ui@2.0.3(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react-router@7.6.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)(tailwindcss@3.4.17)(use-sync-external-store@1.5.0(react@18.3.1))(vite@5.4.19(@types/node@20.17.57))':
+    dependencies:
+      '@comenchi/admin-sdk': 2.0.2(react@18.3.1)
+      '@comenchi/common': 1.0.4
       '@hookform/resolvers': 3.10.0(react-hook-form@7.57.0(react@18.3.1))
       '@radix-ui/react-accordion': 1.2.11(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@radix-ui/react-avatar': 1.1.10(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -4398,6 +4423,14 @@ snapshots:
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
 
+  '@floating-ui/react@0.27.12(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
+    dependencies:
+      '@floating-ui/react-dom': 2.1.3(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@floating-ui/utils': 0.2.9
+      react: 18.3.1
+      react-dom: 18.3.1(react@18.3.1)
+      tabbable: 6.2.0
+
   '@floating-ui/utils@0.2.9': {}
 
   '@hookform/resolvers@3.10.0(react-hook-form@7.57.0(react@18.3.1))':
@@ -4443,197 +4476,150 @@ snapshots:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.0
 
-  '@lexical/clipboard@0.31.2':
+  '@lexical/clipboard@0.32.1':
     dependencies:
-      '@lexical/html': 0.31.2
-      '@lexical/list': 0.31.2
-      '@lexical/selection': 0.31.2
-      '@lexical/utils': 0.31.2
-      lexical: 0.31.2
+      '@lexical/html': 0.32.1
+      '@lexical/list': 0.32.1
+      '@lexical/selection': 0.32.1
+      '@lexical/utils': 0.32.1
+      lexical: 0.32.1
 
-  '@lexical/clipboard@0.32.0':
+  '@lexical/code@0.32.1':
     dependencies:
-      '@lexical/html': 0.32.0
-      '@lexical/list': 0.32.0
-      '@lexical/selection': 0.32.0
-      '@lexical/utils': 0.32.0
-      lexical: 0.32.0
-
-  '@lexical/code@0.31.2':
-    dependencies:
-      '@lexical/utils': 0.31.2
-      lexical: 0.31.2
+      '@lexical/utils': 0.32.1
+      lexical: 0.32.1
       prismjs: 1.30.0
 
-  '@lexical/code@0.32.0':
+  '@lexical/devtools-core@0.32.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
-      '@lexical/utils': 0.32.0
-      lexical: 0.32.0
-      prismjs: 1.30.0
-
-  '@lexical/devtools-core@0.31.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
-    dependencies:
-      '@lexical/html': 0.31.2
-      '@lexical/link': 0.31.2
-      '@lexical/mark': 0.31.2
-      '@lexical/table': 0.31.2
-      '@lexical/utils': 0.31.2
-      lexical: 0.31.2
+      '@lexical/html': 0.32.1
+      '@lexical/link': 0.32.1
+      '@lexical/mark': 0.32.1
+      '@lexical/table': 0.32.1
+      '@lexical/utils': 0.32.1
+      lexical: 0.32.1
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
 
-  '@lexical/dragon@0.31.2':
+  '@lexical/dragon@0.32.1':
     dependencies:
-      lexical: 0.31.2
+      lexical: 0.32.1
 
-  '@lexical/hashtag@0.31.2':
+  '@lexical/hashtag@0.32.1':
     dependencies:
-      '@lexical/utils': 0.31.2
-      lexical: 0.31.2
+      '@lexical/utils': 0.32.1
+      lexical: 0.32.1
 
-  '@lexical/history@0.31.2':
+  '@lexical/history@0.32.1':
     dependencies:
-      '@lexical/utils': 0.31.2
-      lexical: 0.31.2
+      '@lexical/utils': 0.32.1
+      lexical: 0.32.1
 
-  '@lexical/html@0.31.2':
+  '@lexical/html@0.32.1':
     dependencies:
-      '@lexical/selection': 0.31.2
-      '@lexical/utils': 0.31.2
-      lexical: 0.31.2
+      '@lexical/selection': 0.32.1
+      '@lexical/utils': 0.32.1
+      lexical: 0.32.1
 
-  '@lexical/html@0.32.0':
+  '@lexical/link@0.32.1':
     dependencies:
-      '@lexical/selection': 0.32.0
-      '@lexical/utils': 0.32.0
-      lexical: 0.32.0
+      '@lexical/utils': 0.32.1
+      lexical: 0.32.1
 
-  '@lexical/link@0.31.2':
+  '@lexical/list@0.32.1':
     dependencies:
-      '@lexical/utils': 0.31.2
-      lexical: 0.31.2
+      '@lexical/selection': 0.32.1
+      '@lexical/utils': 0.32.1
+      lexical: 0.32.1
 
-  '@lexical/link@0.32.0':
+  '@lexical/mark@0.32.1':
     dependencies:
-      '@lexical/utils': 0.32.0
-      lexical: 0.32.0
+      '@lexical/utils': 0.32.1
+      lexical: 0.32.1
 
-  '@lexical/list@0.31.2':
+  '@lexical/markdown@0.32.1':
     dependencies:
-      '@lexical/selection': 0.31.2
-      '@lexical/utils': 0.31.2
-      lexical: 0.31.2
+      '@lexical/code': 0.32.1
+      '@lexical/link': 0.32.1
+      '@lexical/list': 0.32.1
+      '@lexical/rich-text': 0.32.1
+      '@lexical/text': 0.32.1
+      '@lexical/utils': 0.32.1
+      lexical: 0.32.1
 
-  '@lexical/list@0.32.0':
+  '@lexical/offset@0.32.1':
     dependencies:
-      '@lexical/selection': 0.32.0
-      '@lexical/utils': 0.32.0
-      lexical: 0.32.0
+      lexical: 0.32.1
 
-  '@lexical/mark@0.31.2':
+  '@lexical/overflow@0.32.1':
     dependencies:
-      '@lexical/utils': 0.31.2
-      lexical: 0.31.2
+      lexical: 0.32.1
 
-  '@lexical/markdown@0.31.2':
+  '@lexical/plain-text@0.32.1':
     dependencies:
-      '@lexical/code': 0.31.2
-      '@lexical/link': 0.31.2
-      '@lexical/list': 0.31.2
-      '@lexical/rich-text': 0.31.2
-      '@lexical/text': 0.31.2
-      '@lexical/utils': 0.31.2
-      lexical: 0.31.2
+      '@lexical/clipboard': 0.32.1
+      '@lexical/selection': 0.32.1
+      '@lexical/utils': 0.32.1
+      lexical: 0.32.1
 
-  '@lexical/offset@0.31.2':
+  '@lexical/react@0.32.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(yjs@13.6.27)':
     dependencies:
-      lexical: 0.31.2
-
-  '@lexical/overflow@0.31.2':
-    dependencies:
-      lexical: 0.31.2
-
-  '@lexical/plain-text@0.31.2':
-    dependencies:
-      '@lexical/clipboard': 0.31.2
-      '@lexical/selection': 0.31.2
-      '@lexical/utils': 0.31.2
-      lexical: 0.31.2
-
-  '@lexical/react@0.31.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(yjs@13.6.27)':
-    dependencies:
-      '@lexical/devtools-core': 0.31.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@lexical/dragon': 0.31.2
-      '@lexical/hashtag': 0.31.2
-      '@lexical/history': 0.31.2
-      '@lexical/link': 0.31.2
-      '@lexical/list': 0.31.2
-      '@lexical/mark': 0.31.2
-      '@lexical/markdown': 0.31.2
-      '@lexical/overflow': 0.31.2
-      '@lexical/plain-text': 0.31.2
-      '@lexical/rich-text': 0.31.2
-      '@lexical/table': 0.31.2
-      '@lexical/text': 0.31.2
-      '@lexical/utils': 0.31.2
-      '@lexical/yjs': 0.31.2(yjs@13.6.27)
-      lexical: 0.31.2
+      '@floating-ui/react': 0.27.12(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@lexical/devtools-core': 0.32.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@lexical/dragon': 0.32.1
+      '@lexical/hashtag': 0.32.1
+      '@lexical/history': 0.32.1
+      '@lexical/link': 0.32.1
+      '@lexical/list': 0.32.1
+      '@lexical/mark': 0.32.1
+      '@lexical/markdown': 0.32.1
+      '@lexical/overflow': 0.32.1
+      '@lexical/plain-text': 0.32.1
+      '@lexical/rich-text': 0.32.1
+      '@lexical/table': 0.32.1
+      '@lexical/text': 0.32.1
+      '@lexical/utils': 0.32.1
+      '@lexical/yjs': 0.32.1(yjs@13.6.27)
+      lexical: 0.32.1
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
       react-error-boundary: 3.1.4(react@18.3.1)
     transitivePeerDependencies:
       - yjs
 
-  '@lexical/rich-text@0.31.2':
+  '@lexical/rich-text@0.32.1':
     dependencies:
-      '@lexical/clipboard': 0.31.2
-      '@lexical/selection': 0.31.2
-      '@lexical/utils': 0.31.2
-      lexical: 0.31.2
+      '@lexical/clipboard': 0.32.1
+      '@lexical/selection': 0.32.1
+      '@lexical/utils': 0.32.1
+      lexical: 0.32.1
 
-  '@lexical/selection@0.31.2':
+  '@lexical/selection@0.32.1':
     dependencies:
-      lexical: 0.31.2
+      lexical: 0.32.1
 
-  '@lexical/selection@0.32.0':
+  '@lexical/table@0.32.1':
     dependencies:
-      lexical: 0.32.0
+      '@lexical/clipboard': 0.32.1
+      '@lexical/utils': 0.32.1
+      lexical: 0.32.1
 
-  '@lexical/table@0.31.2':
+  '@lexical/text@0.32.1':
     dependencies:
-      '@lexical/clipboard': 0.31.2
-      '@lexical/utils': 0.31.2
-      lexical: 0.31.2
+      lexical: 0.32.1
 
-  '@lexical/table@0.32.0':
+  '@lexical/utils@0.32.1':
     dependencies:
-      '@lexical/clipboard': 0.32.0
-      '@lexical/utils': 0.32.0
-      lexical: 0.32.0
+      '@lexical/list': 0.32.1
+      '@lexical/selection': 0.32.1
+      '@lexical/table': 0.32.1
+      lexical: 0.32.1
 
-  '@lexical/text@0.31.2':
+  '@lexical/yjs@0.32.1(yjs@13.6.27)':
     dependencies:
-      lexical: 0.31.2
-
-  '@lexical/utils@0.31.2':
-    dependencies:
-      '@lexical/list': 0.31.2
-      '@lexical/selection': 0.31.2
-      '@lexical/table': 0.31.2
-      lexical: 0.31.2
-
-  '@lexical/utils@0.32.0':
-    dependencies:
-      '@lexical/list': 0.32.0
-      '@lexical/selection': 0.32.0
-      '@lexical/table': 0.32.0
-      lexical: 0.32.0
-
-  '@lexical/yjs@0.31.2(yjs@13.6.27)':
-    dependencies:
-      '@lexical/offset': 0.31.2
-      '@lexical/selection': 0.31.2
-      lexical: 0.31.2
+      '@lexical/offset': 0.32.1
+      '@lexical/selection': 0.32.1
+      lexical: 0.32.1
       yjs: 13.6.27
 
   '@mjackson/node-fetch-server@0.2.0': {}
@@ -5452,6 +5438,8 @@ snapshots:
   '@types/node@20.17.57':
     dependencies:
       undici-types: 6.19.8
+
+  '@types/prismjs@1.26.5': {}
 
   '@types/prop-types@15.7.14': {}
 
@@ -6344,7 +6332,7 @@ snapshots:
 
   lexical@0.31.2: {}
 
-  lexical@0.32.0: {}
+  lexical@0.32.1: {}
 
   lib0@0.2.108:
     dependencies:
@@ -7014,6 +7002,8 @@ snapshots:
   swiper@11.2.8: {}
 
   symbol-tree@3.2.4: {}
+
+  tabbable@6.2.0: {}
 
   tailwind-merge@2.5.4: {}
 
