@@ -27,10 +27,11 @@ export const loader = wrapLoader(
   },
 )
 export const Shop = ({loaderData}: Route.ComponentProps) => {
+
   return (
     <ComenchiProvider value={getConfig().context.getShopSdk()}>
       <OrderControllerProvider order={loaderData.order}>
-        <SearchController firstSearch={loaderData.search}>
+        <SearchController firstSearch={loaderData?.search}>
           <QueueProvider>
             <UbigeoProvider>
               <Outlet />

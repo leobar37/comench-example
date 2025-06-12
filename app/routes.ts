@@ -21,6 +21,11 @@ export default [
     route('/admin/create-product', 'routes/admin/products/create-product.tsx'),
     route('/admin/products', 'routes/admin/products/products.tsx'),
     route('/admin/products/:id', 'routes/admin/products/edit-product.tsx'),
+    // customers
+    route('/admin/customers', 'routes/admin/customers/customers.tsx'),
+    route('/admin/customers/:id', 'routes/admin/customers/edit-customer.tsx'),
+    route('/admin/create-customer', 'routes/admin/customers/create-customer.tsx'),
+
     // collections
     route('/admin/collections', 'routes/admin/collections/collections.tsx'),
     route(
@@ -34,6 +39,10 @@ export default [
     // orders
     route('/admin/orders', 'routes/admin/orders/orders.tsx'),
     route(`/admin/orders/:id`, 'routes/admin/orders/order.tsx'),
+    // payment handlers
+    route('/admin/payment-handlers', 'routes/admin/payment-handlers/payment-handlers.tsx'),
+    route('/admin/create-payment-handler', 'routes/admin/payment-handlers/create-payment-handler.tsx'),
+    route('/admin/payment-handlers/:id', 'routes/admin/payment-handlers/edit-payment-handler.tsx'),
     // builder
     route('/admin/builder/:groupId', 'routes/admin/widget.tsx'),
     route('/admin/pages', 'routes/admin/pages.tsx'),

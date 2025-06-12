@@ -17,8 +17,7 @@ export const loader = wrapLoader(
     }
   },
 )
-
-export default function Page({loaderData}: Route.ComponentProps) {
+export default function Page() {
   return (
     <Fragment>
       <NavBar />

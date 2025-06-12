@@ -1,13 +1,15 @@
 import {defineProps, defineWidget, fields, getConfig} from '@comenchi/admin'
 import {Collection} from '@comenchi/admin-sdk'
-import {ComenchiImage, Button} from '@comenchi/ui'
+import {buttonVariants, ComenchiImage} from '@comenchi/ui'
 import {ArrowRight} from 'lucide-react'
+import {Link} from 'react-router'
 
 type Props = {
   title: string
   description: string
   categories: Collection[]
 }
+
 function CategorySection({categories, title, description}: Props) {
   return (
     <section className="py-16 bg-gray-50 max-w-6xl mx-auto">
@@ -48,13 +50,15 @@ function CategorySection({categories, title, description}: Props) {
                       {category.description}
                     </p>
                   </div>
-                  <Button
-                    variant="secondary"
-                    className="bg-white text-black hover:bg-gray-100 w-fit"
+                  <Link
+                    to={getConfig().routesConfig.routes.toCollection(category)}
+                    className={buttonVariants({
+                      class: 'bg-white text-black hover:bg-gray-100 w-fit',
+                    })}
                   >
                     Explore {category.name}
                     <ArrowRight className="ml-2 h-4 w-4" />
-                  </Button>
+                  </Link>
                 </div>
               </div>
             </div>

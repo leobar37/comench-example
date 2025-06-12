@@ -15,10 +15,6 @@ export default function handleRequest(
   routerContext: EntryContext,
   loadContext: AppLoadContext,
 ) {
-  console.log({
-    path: request.url,
-  })
-
   return new Promise((resolve, reject) => {
     let shellRendered = false
     let userAgent = request.headers.get('user-agent')

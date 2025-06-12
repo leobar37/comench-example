@@ -14,7 +14,7 @@ export const loader = wrapLoader(async function ({
   }
 })
 
-export default function Home({loaderData}: Route.ComponentProps) {
+export default function Home() {
   return (
     <Fragment>
       <NavBar />

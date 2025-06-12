@@ -3,14 +3,15 @@ if (typeof globalThis.Prism === 'undefined') {
   globalThis.Prism = Prism
 }
 // top
+
 import './components/registry'
 import './lib/comenchi-admin'
 import './lib/comenchi-shop'
 import './widgets/models-registry'
 // end top
+
 import dayjs from 'dayjs'
 import relativeTime from 'dayjs/plugin/relativeTime.js'
-import "swiper/css";
 dayjs.extend(relativeTime)
 
 import {
@@ -59,6 +60,10 @@ export const links: LinksFunction = () => {
     },
     {
       href: 'https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;700&family=Inter:wght@500;700;800&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap',
+      rel: 'stylesheet',
+    },
+    {
+      href: 'https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css',
       rel: 'stylesheet',
     },
   ]

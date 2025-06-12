@@ -5,10 +5,11 @@ import {defineConfig} from 'vite'
 import {envOnlyMacros} from 'vite-env-only'
 import tsconfigPaths from 'vite-tsconfig-paths'
 import devtoolsJson from 'vite-plugin-devtools-json'
+
 export default defineConfig({
   css: {
     postcss: {
-      plugins: [tailwindcss, autoprefixer],
+      plugins: [autoprefixer, tailwindcss],
     },
   },
   ssr: {

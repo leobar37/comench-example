@@ -65,11 +65,12 @@ const Admin = () => {
   //       })
   //   }
   // }, [currentChannel])
+  
 
   return (
     <AdminProvider value={getConfig().context.getAdmin()}>
       <AdminLayout />
-      <UpdateWidgetsButton />
+      {/* <UpdateWidgetsButton /> */}
     </AdminProvider>
   )
 }
