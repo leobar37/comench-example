@@ -4,7 +4,7 @@ import {ComenchiAdmin} from '@comenchi/admin-sdk'
 const comenchiAdmin = new ComenchiAdmin({
   sdk: {
     apiUrl: getConfig().adminApiEndpoint,
-    channelToken: 'alfk-token',
+    channelToken: getConfig().channelCode,
   },
 })
 

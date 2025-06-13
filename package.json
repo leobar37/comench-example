@@ -10,12 +10,12 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@comenchi/admin": "2.0.7",
-    "@comenchi/admin-sdk": "2.0.5",
-    "@comenchi/common": "1.0.7",
-    "@comenchi/shop": "2.0.7",
-    "@comenchi/shop-sdk": "2.0.5",
-    "@comenchi/ui": "2.0.6",
+    "@comenchi/admin": "2.0.9-beta.0",
+    "@comenchi/admin-sdk": "2.0.7-beta.0",
+    "@comenchi/common": "1.0.9-beta.0",
+    "@comenchi/shop": "2.0.9-beta.0",
+    "@comenchi/shop-sdk": "2.0.7-beta.0",
+    "@comenchi/ui": "2.0.8-beta.0",
     "@hookform/resolvers": "^3.10.0",
     "@lexical/code": "0.32.1",
     "@lexical/html": "0.32.1",
